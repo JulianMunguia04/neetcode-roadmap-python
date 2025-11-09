@@ -1,0 +1,6 @@
+Prerequisites:
+  1. Dynamic Arrays
+  2. Hash Usage
+  3. Hash Implementation
+  4. Prefix Sums
+
