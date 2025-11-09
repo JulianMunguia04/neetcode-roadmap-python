@@ -1,4 +1,4 @@
-# Neetcode Roadmap Python
+# Neetcode Roadmap Python 🐍
 
 This repository contains my solutions and notes as I complete the **[NeetCode Roadmap](https://neetcode.io/roadmap)** to master **Data Structures and Algorithms** for technical interviews.
 
@@ -48,3 +48,28 @@ neetcode-roadmap/
 - Math & Geometry
 
 ---
+
+## 🚀 Goal
+Complete every problem in the NeetCode Roadmap to:
+- Build strong DSA foundations
+- Improve problem-solving speed
+- Prepare for FAANG / top-tier technical interviews
+
+## 🌟Progress Tracker
+| Topic            | Progress |
+| ---------------- | -------- |
+| Arrays & Hashing | ✅       |
+| Two Pointers     | 🔄        |
+| Sliding Window   | ⏳        |
+| Stack            | ⏳        |
+| ...              | ...      |
+
+---
+
+## 📚 Notes
+Each folder may include a README.md summarizing:
+- Core concepts
+- Common Patterns
+- Key insights for that topic
+
+### Created by Julian Munguia
