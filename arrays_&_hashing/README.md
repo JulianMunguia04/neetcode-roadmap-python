@@ -28,7 +28,7 @@ This folder contains my Python solutions for problems under the **Arrays & Hashi
 | 1 | Contains Duplicate | 🟢 Easy | `contains_duplicate.py` | Set | ✅ |
 | 2 | Valid Anagram | 🟢 Easy | `valid_anagram.py` | Set | ✅ |
 | 3 | Two Sum | 🟢 Easy | `two_sum.py` | Hash Map | ✅ |
-| 4 | Group Anagrams | 🟡 Medium | `group_anagrams.py` | Hash Map, Sorting | ⏳ |
+| 4 | Group Anagrams | 🟡 Medium | `group_anagrams.py` | Hash Map, Sorting | ✅ |
 | 5 | Top K Frequent Elements | 🟡 Medium | `top_k_frequent_elements.py` | Hash Map, Heap | ⏳ |
 | 6 | Encode and Decode Strings | 🟡 Medium | `encode_and_decode_strings.py` | String Encoding | ⏳ |
 | 7 | Product of Array Except Self | 🟡 Medium | `product_of_array_except_self.py` | Prefix Product | ⏳ |
