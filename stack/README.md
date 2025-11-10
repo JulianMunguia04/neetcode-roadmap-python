@@ -44,3 +44,6 @@ Run any problem file directly using Python:
 
 ```bash
 python3 valid_parentheses.py
+```
+
+![Stack Example](/stack/stack.webp)
