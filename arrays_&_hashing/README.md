@@ -14,6 +14,13 @@ This folder contains my Python solutions for problems under the **Arrays & Hashi
 
 ---
 
+## 📝 Prerequisites
+
+- Dynamic Arrays
+- Hash Usage
+- Hash Implementation
+- Prefix Sums
+
 ## 🧠 Problems Solved
 
 | # | Problem | Difficulty | File | Topics | Status |
