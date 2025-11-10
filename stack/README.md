@@ -27,7 +27,7 @@ This folder contains my Python solutions for problems under the **Stack** sectio
 | # | Problem | Difficulty | File | Topics | Status |
 |---|----------|-------------|------|---------|--------|
 | 1 | Valid Parentheses | 🟢 Easy | `valid_parentheses.py` | Stack | ✅ |
-| 2 | Min Stack | 🟡 Medium | `min_stack.py` | Stack, Design | ⏳ |
+| 2 | Min Stack | 🟡 Medium | `min_stack.py` | Stack, Design | ✅ |
 | 3 | Evaluate Reverse Polish Notation | 🟡 Medium | `evaluate_reverse_polish_notation.py` | Stack, Math | ⏳ |
 | 4 | Daily Temperatures | 🟡 Medium | `daily_temperatures.py` | Monotonic Stack | ⏳ |
 | 5 | Car Fleet | 🟡 Medium | `car_fleet.py` | Stack, Sorting | ⏳ |
