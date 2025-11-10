@@ -20,3 +20,5 @@ class MinStack:
 
     def getMin(self) -> int:
         return self.minStack[-1]
+
+#Time Complexity: each function runs at O(1) constatn time
