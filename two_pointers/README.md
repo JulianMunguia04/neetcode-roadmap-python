@@ -27,7 +27,7 @@ This folder contains my Python solutions for problems under the **Two Pointers**
 | # | Problem | Difficulty | File | Topics | Status |
 |---|----------|-------------|------|---------|--------|
 | 1 | Valid Palindrome | 🟢 Easy | `valid_palindrome.py` | Two Pointers, String | ✅ |
-| 2 | Two Sum II - Input Array Is Sorted | 🟢 Easy | `two_sum_ii.py` | Two Pointers, Array | ⏳ |
+| 2 | Two Sum II - Input Array Is Sorted | 🟢 Easy | `two_sum_ii.py` | Two Pointers, Array | ✅ |
 | 3 | 3Sum | 🟡 Medium | `three_sum.py` | Two Pointers, Sorting | ⏳ |
 | 4 | Container With Most Water | 🟡 Medium | `container_with_most_water.py` | Two Pointers, Greedy | ⏳ |
 | 5 | Trapping Rain Water | 🔴 Hard | `trapping_rain_water.py` | Two Pointers, Dynamic Programming | ⏳ |
