@@ -45,4 +45,4 @@ Run any problem file directly using Python:
 python3 valid_parentheses.py
 ```
 
-![Two Pointers Example](/stack/two-pointers.png)
+![Two Pointers Example](/two_pointers/two-pointers.png)
