@@ -30,9 +30,9 @@ This folder contains my Python solutions for problems under the **Linked List** 
 
 | # | Problem | Difficulty | File | Topics | Status |
 |---|---------|------------|-------------------------------|---------------------------------------|---------|
-| 1 | Reverse Linked List | 🟢 Easy | `reverse_linked_list.py` | Pointers, Iteration | ⏳ |
-| 2 | Merge Two Sorted Lists | 🟢 Easy | `merge_two_sorted_lists.py` | Linked Lists, Merge Pattern | ⏳ |
-| 3 | Linked List Cycle | 🟡 Medium | `linked_list_cycle.py` | Fast & Slow Pointers | ⏳ |
+| 1 | Reverse Linked List | 🟢 Easy | `reverse_linked_list.py` | Pointers, Iteration | ✅ |
+| 2 | Merge Two Sorted Lists | 🟢 Easy | `merge_two_sorted_lists.py` | Linked Lists, Merge Pattern | ✅ |
+| 3 | Linked List Cycle | 🟡 Medium | `linked_list_cycle.py` | Fast & Slow Pointers | ✅ |
 | 4 | Reorder List | 🟡 Medium | `reorder_list.py` | Fast/Slow Pointers, Reverse, Merge | ⏳ |
 | 5 | Remove Nth Node From End of List | 🟡 Medium | `remove_nth_node.py` | Two Pointers | ⏳ |
 | 6 | Copy List With Random Pointer | 🟡 Medium | `copy_list_random_pointer.py` | HashMap, Deep Copy | ⏳ |
