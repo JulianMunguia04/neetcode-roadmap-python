@@ -15,3 +15,6 @@ class Solution:
             curr = nxt 
         
         return prev
+    
+# Time complexity: O(n), as we traverse each node once
+# Space complexity: O(1), as we only use a few pointers
